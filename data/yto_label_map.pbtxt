@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'gpl'
+}
+
+item {
+  id: 2
+  name: 'car'
+}

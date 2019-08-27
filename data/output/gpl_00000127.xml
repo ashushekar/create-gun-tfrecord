@@ -1,0 +1,46 @@
+<annotation>
+    <filename>gpl_00000127.jpeg</filename>
+    <folder>YouTubeObjects</folder>
+    <object>
+        <bndbox>
+            <xmax>177</xmax>
+            <xmin>97</xmin>
+            <ymax>209</ymax>
+            <ymin>111</ymin>
+        </bndbox>
+        <difficult>0</difficult>
+        <name>gpl</name>
+        <occluded>0</occluded>
+        <pose>Frontal</pose>
+        <truncated>0</truncated>
+    </object>
+    <object>
+        <bndbox>
+            <xmax>76</xmax>
+            <xmin>6</xmin>
+            <ymax>212</ymax>
+            <ymin>113</ymin>
+        </bndbox>
+        <difficult>0</difficult>
+        <name>gpl</name>
+        <occluded>0</occluded>
+        <pose>Frontal</pose>
+        <truncated>0</truncated>
+    </object>
+    <owner>
+        <flickrid>Ashwin</flickrid>
+        <name>VID training set</name>
+    </owner>
+    <segmented>0</segmented>
+    <size>
+        <depth>3</depth>
+        <height>145</height>
+        <width>348</width>
+    </size>
+    <source>
+        <annotation>YouTubeObjects 2015</annotation>
+        <database>The YouTubeObjects Database 2015</database>
+        <flickrid>341012865</flickrid>
+        <image>flickr</image>
+    </source>
+</annotation>
